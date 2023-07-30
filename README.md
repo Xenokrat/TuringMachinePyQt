@@ -1,7 +1,18 @@
 # GUI Машина Тьюринга
 
+## Установка
+- С `poetry`
+```
+  poetry install
+```
+- С venv
+```shell
+  python -m venv venv
+  source venv/bin/activate
+  pip install -r requirements
+```
 ## Запуск
-```python
+```shell
   python main.py
 ```
 
