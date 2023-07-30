@@ -35,6 +35,9 @@
          <pointsize>14</pointsize>
         </font>
        </property>
+       <property name="minimum">
+        <number>1</number>
+       </property>
       </widget>
      </item>
     </layout>
@@ -59,6 +62,9 @@
         <font>
          <pointsize>14</pointsize>
         </font>
+       </property>
+       <property name="minimum">
+        <number>1</number>
        </property>
       </widget>
      </item>

@@ -1,4 +1,4 @@
-# Form implementation generated from reading ui file 'turing_machine/open.ui'
+# Form implementation generated from reading ui file 'open.ui'
 #
 # Created by: PyQt6 UI code generator 6.4.2
 #
@@ -27,6 +27,7 @@ class Ui_Form(object):
         font = QtGui.QFont()
         font.setPointSize(14)
         self.alph_box.setFont(font)
+        self.alph_box.setMinimum(1)
         self.alph_box.setObjectName("alph_box")
         self.horizontalLayout.addWidget(self.alph_box)
         self.verticalLayout.addLayout(self.horizontalLayout)
@@ -42,6 +43,7 @@ class Ui_Form(object):
         font = QtGui.QFont()
         font.setPointSize(14)
         self.state_box.setFont(font)
+        self.state_box.setMinimum(1)
         self.state_box.setObjectName("state_box")
         self.horizontalLayout_2.addWidget(self.state_box)
         self.verticalLayout.addLayout(self.horizontalLayout_2)

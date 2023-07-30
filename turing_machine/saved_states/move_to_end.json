@@ -1,0 +1,1 @@
+{"state_value": 2, "alph_value": 1, "is_ready_to_start": false, "is_on": false, "current_table_state": 1, "table_data": [["N S Q0", "_ R Q2"], ["0 S Q0", "N R Q2"]], "tape": ["_", "_", "_", "_", "_", "_", "_", "_", "_", "_", "_", "_", "_", "_", 0, 0, 0, 0, "_", "_", "_", "_", "_", "_", "_", "_", "_", "_", "_", "_"], "current_tape_cell": 14}
